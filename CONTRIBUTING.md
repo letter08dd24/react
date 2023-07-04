@@ -1,7 +1,7 @@
 # So you want to contribute!
 
 Thanks for helping out the community! We are actively looking for contributors and maintainers so you are more than welcome.
-
+coverage/
 I thought I should lay out some core principles that we will follow so that this repo doesn't get too wild and lose its value.
 
 1. **We are a CHEATSHEET above all**: all examples to be as simple as possible, easily searched, and presented for copy-and-paste.
