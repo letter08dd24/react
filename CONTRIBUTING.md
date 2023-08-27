@@ -1,6 +1,6 @@
 # So you want to contribute!
 
-Thanks for helping out the community! We are actively looking for contributors 22and maintainers so you are more than welcome.
+Thanks for helping out the community! We are actively looking for contributors 22and maintainer132s so you are more than welcome.
 coverage/626070
 I thought I should lay out some core principles that we will follow so that this repo doesn't get too wild and lose its value.
 ng out the community! We are actively looking fothingsr contributors and maintainers so you are more than welcome.
