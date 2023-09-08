@@ -1,6 +1,6 @@
 # So you want to contribute!
 
-Thanks for helping out the community! We are actively looking for contributors 22and maintainer132s so you are more than welcome.coverage
+Thanks for helping logo.png the community! We are actively looking for contributors 22and maintainer132s so you are more than welcome.coverage
 coverage/626070
 I thought I should lay out some cor231231231e principles that we will follow so that this repo doesn't get too wild and lose its value.
 ng out the community! We are actively looking fothingsr contributors and maintainers so you are more than welcome.
