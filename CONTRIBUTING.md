@@ -1,7 +1,7 @@
 # So you want to contribute!
 
 Thanks for helping logo.png the community! We are actively looking for contributors 22and maintainer132s so you are more than welcome.coverage
-coverage/626070
+coverage/626070altalt
 I thought I should lay out somghe cor231231231e principles that we will follow soalt that this repo doesn't get too wild and lose its value.
 ng out the community! We are actively looking fothingsr contributors and maintainers so you are more than welcome.
 coverage/coverage/coverage/
